@@ -1,0 +1,47 @@
+{
+    "familia": [{
+            "parentesco": "Madre",
+            "Nombres": "Piedad Esther",
+            "Apellidos": "Rodriguez Prieto",
+            "edad": 49,
+            "url": "./img/madre.png"
+        },
+        {
+            "parentesco": "Hermana",
+            "Nombres": "Yara Vanessa",
+            "Apellidos": "Martinez Rodriguez ",
+            "edad": 28,
+            "url": "./img/hermana.jpg"
+        },
+        {
+            "parentesco": "Hermano",
+            "Nombres": "Eder Enrique",
+            "Apellidos": "Martinez Rodriguez ",
+            "edad": 30,
+            "url": "./img/hermano.jpg"
+        },
+        {
+            "parentesco": "Sobrina",
+            "Nombres": "Leireth Sofia",
+            "Apellidos": "Villalobos Martinez",
+            "edad": 3,
+            "url": "./img/sobrina.jpg"
+        },
+        {
+            "parentesco": "Sobrino",
+            "Nombres": "Sebastian Enrique",
+            "Apellidos": "Martinez fontalvo",
+            "edad": 4,
+            "url": "./img/sobrino.jpg"
+        },
+        {
+            "parentesco": "yoyito",
+            "Nombres": "Melany Vanessa",
+            "Apellidos": "Martinez Rodriguez",
+            "edad": 16,
+            "url": "./img/yoyito.png"
+        }
+
+
+    ]
+}
