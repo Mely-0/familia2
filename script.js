@@ -2,7 +2,7 @@ const div = document.querySelector('#tarjetas');
 console.log(div);
 async function ObtenerDatos() {
 
-    const response = await fetch("http://127.0.0.1:5500/familia.json");
+    const response = await fetch("familia.json");
     let json = await response.json();
 
     console.log(json);
