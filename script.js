@@ -11,7 +11,7 @@ async function ObtenerDatos() {
 
     json.familia.forEach(element => {
 
-        div.innerHTML += '<div class="contenedor-tarjeta"> <img src='+element.url+'><h3> Parentesco: ' + element.parentesco + ' </h3> <br> <span> Apellidos:' + element.Apellidos + '<br> <span> Nombres: ' + element.Nombres + ' <br> Edad: '+ element.edad +' <br> </span> </div> ';
+        div.innerHTML += '<div class="contenedor-tarjeta"> <img src=' + element.url + '><h3> Parentesco: ' + element.parentesco + ' </h3> <br> <span> Nombres:' + element.Nombres + '<br> <span> Apelllidos: ' + element.Apellidos + ' <br> Edad: ' + element.edad + ' <br> </span> </div> ';
 
 
 
